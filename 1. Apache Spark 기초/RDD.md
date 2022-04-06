@@ -62,3 +62,16 @@ mem_rdd = msg_rdd.filter(lambda msg: "memory" in msg)
 - 최종 데이터를 담고 있는 RDD에 연산을 수행 (Action)
 
 `Value`
+
+```python
+mem_rdd.count()
+# 74
+
+mem_rdd.collect()
+# [mem1, mem2, mem3, ...]
+# Out of Memory (OOM) 예외 발생 가능
+
+mem_rdd.saveAsTextFile(path) 
+# 외부 저장소에 저장
+# RDD 내 파티션 단위로 병렬 처리되어 개별 저장됨
+```
