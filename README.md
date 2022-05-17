@@ -5,3 +5,4 @@
     - [Apache Spark 개요](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Apache%20Spark%20%EA%B0%9C%EC%9A%94.md)
     - [RDD](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/RDD.md)
     - [Interactive Shell](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Spark%20Interactive%20Shell.md)
+    - [Web Notebook](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Web%20Notebook.md)
