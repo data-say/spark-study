@@ -61,3 +61,4 @@ sc.uiWebUrl
 - MapReduce 뿐만 아니라 Cluster 환경에서 구동 가능한 다양한 Application 플랫폼 지원
 - Spark, Hive, HBase, Presto, Flink 등의 Application 실행 가능
 - Default port: `http://<ResourceManager>:8088`
+ 
