@@ -8,3 +8,4 @@
     - [Web Notebook](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Web%20Notebook.md)
     - [Web UI](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Web%20UI%2C%20Driver%20Cluster%20Manager.md)
     - [Spark vs MapReduce](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Spark%20vs%20MapReduce.md)
+    - [Spark Software Components](https://github.com/data-say/spark-study/blob/main/1.%20Apache%20Spark%20%EA%B8%B0%EC%B4%88/Spark%20Software%20Components.md)
